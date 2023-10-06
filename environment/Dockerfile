@@ -1,0 +1,5 @@
+# hash:sha256:d7ef44710e54e26eb89f6511e9ad1e06c6ff45f82ac82f9d337858df12c68507
+FROM registry.codeocean.com/codeocean/matlab:2022a-ubuntu20.04
+
+ARG DEBIAN_FRONTEND=noninteractive
+ARG MLM_LICENSE_FILE

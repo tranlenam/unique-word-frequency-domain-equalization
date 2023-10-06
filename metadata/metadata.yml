@@ -1,0 +1,18 @@
+metadata_version: 1
+name: Unique Word Based Frequency Domain Equalization with Noise Prediction
+description: |-
+  Simulation code for the following paper:
+  Le-Nam Tran and Een-Kee Hong, "Unique Word based Frequency Domain Equalization with Noise Prediction," IEEE Commun. Lett., vol.12, no.10, pp. 785-787, Oct. 2008.
+tags:
+- channel-equalization
+- frequency domain
+authors:
+- name: Le-Nam Tran
+  affiliations:
+  - name: Kyung Hee University
+- name: Een-Kee Hong
+  affiliations:
+  - name: Kyung Hee University
+corresponding_contributor:
+  name: Le-Nam Tran
+  email: nam.tran@ucd.ie
